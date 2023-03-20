@@ -28,17 +28,14 @@ By accessing the video recording of this project, you acknowledge and agree that
 - Windows operating system
 - Visual Studio 2019 or later
 - .NET Framework
-## Installation
 
-    1. Clone the repository to your local machine.
-    2. Open the solution file in Visual Studio.
-    3. Build the solution.
 ## Run Locally
 
-	1. Open the solution file (.sln) in Visual Studio.
-	2. Build the solution by selecting Build > Build Solution from the menu.
-	3. Run the application by selecting Debug > Start Debugging from the menu or pressing F5. Alternatively, you can navigate to the bin/Debug folder and run the executable file (.exe).
-	4. The user interface should appear, and you can start typing and editing text. Use the File menu to create, open, save, and close files. Use the Help menu to access information about the application.
+	1. Clone the repository to your local machine.
+	2. Open the solution file (.sln) in Visual Studio.
+	3. Build the solution by selecting Build > Build Solution from the menu.
+	4. Run the application by selecting Debug > Start Debugging from the menu or pressing F5. Alternatively, you can navigate to the bin/Debug folder and run the executable file (.exe).
+	5. The user interface should appear, and you can start typing and editing text. Use the File menu to create, open, save, and close files. Use the Help menu to access information about the application.
 
 
 ## Demo
