@@ -40,5 +40,5 @@ By accessing the video recording of this project, you acknowledge and agree that
 
 ## Demo
 
-Insert gif or link to demo
+![TextEditor-Demo-GitHub](https://user-images.githubusercontent.com/64825806/226459107-99437734-f2c6-45ce-a560-68940dfc039f.gif)
 
